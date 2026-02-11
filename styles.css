@@ -8,6 +8,10 @@ header {
     z-index: 99;
 }
 
+body {
+    overflow-y: scroll;
+}
+
 .content-header {
     width: 450px;
     padding: 0 12px;
