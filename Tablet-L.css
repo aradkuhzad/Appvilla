@@ -38,5 +38,13 @@
         margin-left: 7.51562px;
         margin-right: 7.51562px;
     }
+
+    .nav-item-menunv {
+        z-index: 1;
+        position: relative;
+        margin-right: 40px;
+        list-style: none;
+    }
+
     }
 }
