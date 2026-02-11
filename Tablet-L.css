@@ -1,4 +1,12 @@
 @media (min-width: 992px) {
+    header {
+        padding: 0;
+    }
+
+    .content-header {
+        width: 960px;
+    }
+
     .content-iconlogolfpg img {
         width: 160px;
         flex-shrink: 0;
