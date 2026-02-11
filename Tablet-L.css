@@ -67,6 +67,7 @@
         padding: 35px 0;
         align-items: center;
         font-weight: 600;
+        cursor: pointer;
         transition: all 0.3s ease-out 0s;
     }
 }
