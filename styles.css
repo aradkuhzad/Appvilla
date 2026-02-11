@@ -11,7 +11,6 @@ body {
     overflow-y: scroll;
 }
 
-
 .content-header {
     width: 100%;
     padding: 0 12px;
@@ -26,7 +25,6 @@ body {
     align-items: center;
     font-family: "Inter", sans-serif;
 }
-
 
 .content-iconlogolfpg {
     display: flex;
