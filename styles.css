@@ -79,6 +79,11 @@ body {
     display: none;
 }
 
+.icon-appstore img {
+    font-size: 17px;
+    width: 16px;
+    height: 16px;
+
     font: normal normal normal 1em/1 'LineIcons';
     color: #ff6b81;
     margin-right: 9px;
