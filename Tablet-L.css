@@ -30,6 +30,13 @@
     }
 
     .content-menunv-mncnhd {
-        
+        display: flex;
+        flex-direction: row;
+        font-family: "Inter", sans-serif;
+        padding: 0;
+        margin: 0;
+        margin-left: 7.51562px;
+        margin-right: 7.51562px;
+    }
     }
 }
