@@ -78,6 +78,9 @@ body {
 .menunv-mncnhd {
     display: none;
 }
+.button-appstore:hover {
+    background-color: #081828;
+}
 
 .icon-appstore img {
     font-size: 17px;
