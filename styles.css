@@ -37,6 +37,7 @@ body {
 }
 
 .content-iconlogolfpg img {
+    display: flex;
     width: 160px;
 }
 
