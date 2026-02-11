@@ -133,7 +133,8 @@ body {
     margin-top: 40px;
 }
 
-.button-appstore {
+.button-appstore,
+.button-googleplay {
     display: flex;
     padding: 12px 25px;
     font-size: 14px;
