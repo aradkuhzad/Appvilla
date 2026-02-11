@@ -78,6 +78,10 @@ body {
 .menunv-mncnhd {
     display: none;
 }
+
+.contentbxonhe h1 {
+}
+
 .contentbxonhe p {
     color: rgb(255, 255, 255);
     font-family: Inter, sans-serif;
@@ -85,6 +89,7 @@ body {
     font-weight: 400;
     line-height: 22px;
     margin-top: 15px;
+    text-align: center;
 }
 
 .content-twbuttonhe {
