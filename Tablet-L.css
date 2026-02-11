@@ -46,6 +46,14 @@
         list-style: none;
     }
 
+    .nav-item-menunvd {
+        z-index: 1;
+        align-items: center;
+        font-weight: 600;
+        margin-right: 10px;
+        transition: all 0.3s ease-out 0s;
+    }
+
     .nav-item-menunv {
         position: relative;
         color: #fff;
