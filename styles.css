@@ -80,6 +80,9 @@ body {
 }
 .button-appstore {
     display: flex;
+    width: 261px;
+    justify-content: center;
+    font-weight: 500;
     margin-bottom: 7px;
     border-radius: 5px;
     background-color: rgb(255, 255, 255);
