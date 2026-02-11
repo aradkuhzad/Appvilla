@@ -13,4 +13,8 @@
         border: 2px solid #fff;
         color: #fff;
         padding: 12px 30px;
+        font-size: 14px;
+        font-weight: 500;
+        border-radius: 5px;
+        font-family: "Inter", sans-serif;
 }
