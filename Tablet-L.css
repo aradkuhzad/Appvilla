@@ -1,0 +1,18 @@
+@media (min-width: 992px) {
+    .content-iconlogolfpg img {
+        width: 160px;
+    }
+
+    .text-Gttnwrgt {
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .menunv-mncnhd {
+        display: flex;
+        flex-basis: auto;
+        align-items: center;
+    }
+
+    
+}
