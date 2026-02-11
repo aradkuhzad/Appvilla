@@ -78,8 +78,10 @@ body {
 .menunv-mncnhd {
     display: none;
 }
+
     font: normal normal normal 1em/1 'LineIcons';
     color: #ff6b81;
+    margin-right: 9px;
 }
 
 
