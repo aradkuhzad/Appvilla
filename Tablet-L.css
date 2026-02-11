@@ -46,5 +46,10 @@
         list-style: none;
     }
 
+    .nav-item-menunv {
+        position: relative;
+        color: #fff;
+        padding: 35px 0;
+        align-items: center;
     }
 }
