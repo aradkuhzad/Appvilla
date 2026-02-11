@@ -80,6 +80,9 @@ body {
 }
 
 .contentbxonhe h1 {
+    color: rgb(255, 255, 255);
+    font-family: Inter, sans-serif;
+    font-size: 24px;
 }
 
 .contentbxonhe p {
