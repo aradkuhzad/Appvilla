@@ -147,6 +147,13 @@ body {
     height: 45px;
 }
 
+.button-googleplay {
+    background-color: #ff6b81;
+    border: 2px solid #fff;
+
+}
+
+
 .button-appstore:hover {
     color: #fff;
     background-color: #081828;
