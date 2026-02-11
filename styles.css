@@ -83,6 +83,9 @@ body {
     box-sizing: border-box;
     font-family: Inter, sans-serif;
     line-height: 22.5px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
 }
 
 .button-appstore {
