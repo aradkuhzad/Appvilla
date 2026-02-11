@@ -78,6 +78,10 @@ body {
 .menunv-mncnhd {
     display: none;
 }
+.content-twbuttonhe {
+    display: flex;
+}
+
 .button-appstore {
     display: flex;
     padding: 12px 25px;
