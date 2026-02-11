@@ -80,6 +80,10 @@ body {
 }
 .button-appstore {
     display: flex;
+    margin-bottom: 7px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    height: 45px;
 }
 
 .button-appstore:hover {
