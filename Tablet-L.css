@@ -48,6 +48,9 @@
 
     .nav-item-menunvd {
         z-index: 1;
+        position: relative;
+        list-style: none;
+        font-size: 15px;
         color: #fff;
         padding: 35px 0;
         align-items: center;
