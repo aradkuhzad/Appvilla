@@ -78,6 +78,9 @@
     .content-section-hero {
         width: 960px;
     }
+    .section-hero {
+        padding: 87px 0 120px 0;
+    }
 
     .contentbxonhe h1 {
         position: relative;
