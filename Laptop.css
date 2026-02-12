@@ -12,9 +12,13 @@
         width: 1140px;
     }
 
+    .text-appstore {
+    }
+
     .text-googleplay {
         margin-bottom: 2px;
         font-weight: 600;
+        white-space: nowrap;
     }
 
 }
