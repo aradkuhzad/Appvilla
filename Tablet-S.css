@@ -31,9 +31,14 @@
     }
 
     
+    .content-twbuttonhe {
+        margin-top: 41px;
+    }
+
     .button-appstore {
         margin-right: 16px;
         margin-bottom: 0;
+        width: 142.203px;
     }
 
     .button-googleplay {
