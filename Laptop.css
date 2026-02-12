@@ -12,6 +12,11 @@
         width: 1140px;
     }
 
+        height: 49px;
+    }
+    .button-googleplay {
+        height: 49px;
+
     .text-appstore {
         margin-bottom: 2px;
         font-weight: 600;
