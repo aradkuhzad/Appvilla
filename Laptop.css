@@ -13,6 +13,8 @@
     }
 
     .text-appstore {
+        margin-bottom: 2px;
+        font-weight: 600;
     }
 
     .text-googleplay {
