@@ -31,6 +31,10 @@
     }
 
     
+    .button-appstore {
+        margin-right: 16px;
+        margin-bottom: 0;
+    }
 
     .button-googleplay {
         width: 169.578px;
