@@ -160,6 +160,9 @@ body {
 .button-googleplay {
     background-color: #ff6b81;
     border: 2px solid #fff;
+    color: #fff;
+    margin-bottom: 0;
+}
 
 }
 
