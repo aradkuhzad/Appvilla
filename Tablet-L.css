@@ -70,6 +70,11 @@
         cursor: pointer;
         transition: all 0.3s ease-out 0s;
     }
+
+    .content-btwnbxot {
+        flex-direction: row;
+    }
+
         text-align: left;
         width: 376px;
     }
