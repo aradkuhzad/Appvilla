@@ -164,6 +164,8 @@ body {
     margin-bottom: 0;
 }
 
+.button-googleplay:hover {
+    color: #ff6b81;
 }
 
 
