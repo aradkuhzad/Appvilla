@@ -89,6 +89,10 @@
     }
 
     .content-twbuttonhe {
+        position: relative;
+        justify-content: flex-start;
+        margin-top: 39px;
+        top: 1px;
     }
 
     .button-appstore {
