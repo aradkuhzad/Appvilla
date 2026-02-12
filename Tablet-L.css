@@ -75,6 +75,10 @@
         flex-direction: row;
     }
 
+    .content-section-hero {
+        width: 960px;
+    }
+
         text-align: left;
         width: 376px;
     }
