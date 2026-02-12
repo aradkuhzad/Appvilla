@@ -87,6 +87,11 @@
     .contentbxonhe {
         padding: 0;
     }
+
+    .text-appstore {
+        font-size: 15px;
+    }
+
     .text-googleplay {
         font-size: 15px;
     }
