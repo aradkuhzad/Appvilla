@@ -190,6 +190,9 @@ body {
 .lni.lni-apple-brand::before {
     display: block;
     width: 17px;
+}
+
+.text-googleplay {
     line-height: 21px;
     font-weight: 500;
 }
