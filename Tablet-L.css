@@ -87,6 +87,10 @@
     .contentbxonhe {
         padding: 0;
     }
+    .button-appstore {
+        height: 48px;
+    }
+
     .button-googleplay {
         height: 48px;
         width: 176.047px;
