@@ -138,13 +138,13 @@ body {
     display: flex;
     padding: 12px 25px;
     font-size: 14px;
-    width: 261px;
     justify-content: center;
     font-weight: 500;
     margin-bottom: 7px;
     border-radius: 5px;
     background-color: rgb(255, 255, 255);
     height: 45px;
+    transition: 0.2s;
 }
 
 .button-googleplay {
@@ -160,6 +160,7 @@ body {
 }
 
 .icon-appstore img {
+    margin-top: 2px;
     font-size: 17px;
     width: 16px;
     height: 16px;
