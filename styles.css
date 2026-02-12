@@ -183,6 +183,7 @@ body {
 .lni.lni-play-store::before {
     display: block;
     width: 17px;
+    height: 17px;
     margin-right: 9px;
 }
 
