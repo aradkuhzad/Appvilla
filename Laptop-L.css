@@ -25,6 +25,10 @@
         width: 1320px;
     }
 
+    .text-appstore {
+        margin-bottom: 0;
+    }
+
 
     .button-appstore {
         height: 48px;
