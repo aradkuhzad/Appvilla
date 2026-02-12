@@ -32,6 +32,8 @@
 
     
     .content-twbuttonhe {
+        flex-direction: row;
+        align-items: center;
         margin-top: 41px;
     }
 
