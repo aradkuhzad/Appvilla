@@ -80,6 +80,9 @@
     }
 
         text-align: left;
+        bottom: 1px;
+        font-weight: 800;
+        line-height: 50px;
         width: 376px;
     }
 
