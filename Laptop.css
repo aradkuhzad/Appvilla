@@ -12,5 +12,9 @@
         width: 1140px;
     }
 
+    .text-googleplay {
+        margin-bottom: 2px;
+        font-weight: 600;
+    }
 
 }
