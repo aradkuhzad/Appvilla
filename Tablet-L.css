@@ -70,4 +70,12 @@
         cursor: pointer;
         transition: all 0.3s ease-out 0s;
     }
+        text-align: left;
+        width: 376px;
+    }
+
+
+    .contentbxonhe {
+        padding: 0;
+    }
 }
