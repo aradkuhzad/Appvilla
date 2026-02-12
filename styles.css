@@ -135,6 +135,8 @@ body {
 
 .button-appstore,
 .button-googleplay {
+    width: 60%;
+    max-width: 767px;
     display: flex;
     padding: 12px 25px;
     font-size: 14px;
