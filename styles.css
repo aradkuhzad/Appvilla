@@ -187,9 +187,9 @@ body {
     margin-right: 9px;
 }
 
-
-.text-appstore {
-    color: #ff6b81;
+.lni.lni-apple-brand::before {
+    display: block;
+    width: 17px;
     line-height: 21px;
     font-weight: 500;
 }
