@@ -175,14 +175,14 @@ body {
     background-color: #081828;
 }
 
-.icon-appstore img {
-    margin-top: 2px;
-    font-size: 17px;
-    width: 16px;
-    height: 16px;
+.text-appstore {
+    line-height: 21px;
+    font-weight: 500;
+}
 
-    font: normal normal normal 1em/1 'LineIcons';
-    color: #ff6b81;
+.lni.lni-play-store::before {
+    display: block;
+    width: 17px;
     margin-right: 9px;
 }
 
