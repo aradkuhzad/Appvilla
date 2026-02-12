@@ -31,4 +31,8 @@
     }
 
     
+    .text-appstore {
+        white-space: nowrap;
+    }
+
 }
