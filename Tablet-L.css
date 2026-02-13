@@ -85,6 +85,10 @@
         margin-top: 0;
     }
 
+    .content-imageb img {
+        width: 536px;
+    }
+
     .section-hero {
         padding: 87px 0 120px 0;
     }
