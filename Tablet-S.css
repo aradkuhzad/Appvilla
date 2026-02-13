@@ -19,6 +19,7 @@
         font-family: "Inter", sans-serif;
         line-height: 21px;
         transition: 0.2s;
+        cursor: pointer;
     }
 
     .text-Gttnwrgt:hover {
