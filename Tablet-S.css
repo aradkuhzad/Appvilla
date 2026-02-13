@@ -70,4 +70,8 @@
         white-space: nowrap;
     }
 
+    .content-imagebx img {
+        width: 696px;
+    }
+
 }
